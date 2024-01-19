@@ -1,0 +1,29 @@
+{
+    "SoloPusher": {
+        "checkpoints": [
+            {
+                "steps": 3000,
+                "file_path": "results\\run4\\SoloPusher\\SoloPusher-3000.onnx",
+                "reward": null,
+                "creation_time": 1705647642.5683398,
+                "auxillary_file_paths": [
+                    "results\\run4\\SoloPusher\\SoloPusher-3000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000,
+            "file_path": "results\\run4\\SoloPusher.onnx",
+            "reward": null,
+            "creation_time": 1705647642.5683398,
+            "auxillary_file_paths": [
+                "results\\run4\\SoloPusher\\SoloPusher-3000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.2+cpu"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "SoloPusher": {
+        "checkpoints": [
+            {
+                "steps": 9499907,
+                "file_path": "results\\run8\\SoloPusher\\SoloPusher-9499907.onnx",
+                "reward": null,
+                "creation_time": 1705653278.8361526,
+                "auxillary_file_paths": [
+                    "results\\run8\\SoloPusher\\SoloPusher-9499907.pt"
+                ]
+            },
+            {
+                "steps": 9999410,
+                "file_path": "results\\run8\\SoloPusher\\SoloPusher-9999410.onnx",
+                "reward": null,
+                "creation_time": 1705653456.1718423,
+                "auxillary_file_paths": [
+                    "results\\run8\\SoloPusher\\SoloPusher-9999410.pt"
+                ]
+            },
+            {
+                "steps": 10499065,
+                "file_path": "results\\run8\\SoloPusher\\SoloPusher-10499065.onnx",
+                "reward": null,
+                "creation_time": 1705653633.9062383,
+                "auxillary_file_paths": [
+                    "results\\run8\\SoloPusher\\SoloPusher-10499065.pt"
+                ]
+            },
+            {
+                "steps": 10999074,
+                "file_path": "results\\run8\\SoloPusher\\SoloPusher-10999074.onnx",
+                "reward": null,
+                "creation_time": 1705653812.6820898,
+                "auxillary_file_paths": [
+                    "results\\run8\\SoloPusher\\SoloPusher-10999074.pt"
+                ]
+            },
+            {
+                "steps": 11220446,
+                "file_path": "results\\run8\\SoloPusher\\SoloPusher-11220446.onnx",
+                "reward": null,
+                "creation_time": 1705653987.826648,
+                "auxillary_file_paths": [
+                    "results\\run8\\SoloPusher\\SoloPusher-11220446.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11220446,
+            "file_path": "results\\run8\\SoloPusher.onnx",
+            "reward": null,
+            "creation_time": 1705653987.826648,
+            "auxillary_file_paths": [
+                "results\\run8\\SoloPusher\\SoloPusher-11220446.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.2+cpu"
+    }
+}

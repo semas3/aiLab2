@@ -1,0 +1,47 @@
+{
+    "SoloPusher": {
+        "checkpoints": [
+            {
+                "steps": 499537,
+                "file_path": "results\\run1\\SoloPusher\\SoloPusher-499537.onnx",
+                "reward": null,
+                "creation_time": 1705620634.447417,
+                "auxillary_file_paths": [
+                    "results\\run1\\SoloPusher\\SoloPusher-499537.pt"
+                ]
+            },
+            {
+                "steps": 999678,
+                "file_path": "results\\run1\\SoloPusher\\SoloPusher-999678.onnx",
+                "reward": null,
+                "creation_time": 1705620931.230862,
+                "auxillary_file_paths": [
+                    "results\\run1\\SoloPusher\\SoloPusher-999678.pt"
+                ]
+            },
+            {
+                "steps": 1000678,
+                "file_path": "results\\run1\\SoloPusher\\SoloPusher-1000678.onnx",
+                "reward": null,
+                "creation_time": 1705620931.3218622,
+                "auxillary_file_paths": [
+                    "results\\run1\\SoloPusher\\SoloPusher-1000678.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000678,
+            "file_path": "results\\run1\\SoloPusher.onnx",
+            "reward": null,
+            "creation_time": 1705620931.3218622,
+            "auxillary_file_paths": [
+                "results\\run1\\SoloPusher\\SoloPusher-1000678.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.2+cpu"
+    }
+}

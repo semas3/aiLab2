@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1705646579",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\18021\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\mlagents-learn MLConfigs/SoloPusher.yaml --run-id=run3",
+        "mlagents_version": "1.0.0",
+        "mlagents_envs_version": "1.0.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.2+cpu",
+        "numpy_version": "1.23.1",
+        "end_time_seconds": "1705646603"
+    },
+    "total": 23.914336299989372,
+    "count": 1,
+    "self": 0.007276000105775893,
+    "children": {
+        "run_training.setup": {
+            "total": 0.08493289991747588,
+            "count": 1,
+            "self": 0.08493289991747588
+        },
+        "TrainerController.start_learning": {
+            "total": 23.82212739996612,
+            "count": 1,
+            "self": 0.00032459991052746773,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 23.821795399999246,
+                    "count": 1,
+                    "self": 23.821795399999246
+                },
+                "trainer_threads": {
+                    "total": 7.00005330145359e-07,
+                    "count": 1,
+                    "self": 7.00005330145359e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 6.700051017105579e-06,
+                    "count": 1,
+                    "self": 6.700051017105579e-06
+                }
+            }
+        }
+    }
+}
